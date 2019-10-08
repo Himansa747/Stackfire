@@ -2,11 +2,11 @@
 wvd.51461@gmail.com Wathsara Daluwatta Wathsara IA1
 
 
-Once you install the this and click the icon to pop up. It will ask to enter the Stack overflow userid. Make sure to give the correct userid because it will ask once. if you will give the wrong userid then you have to uninstall and install the extension in order to give the correct id.
+Once you install the this and click the icon to pop up. It will ask you to enter the Stack overflow userid. Make sure to give the correct userid because it will ask only once. if you give the wrong userid then you will have to uninstall and install again the extension in order to give the correct id.
 
 **you can find you userid in the top of the your stack overflow account**
 
-After that when you click the icon it will give the popup with 4 buttons.
+After that, when you click the icon, it will give the popup with 4 buttons.
 
 **INBOX**
 **Achievements**
@@ -24,7 +24,7 @@ Get questions - https://api.stackexchange.com/docs/questions-on-users
 
 In the **PROFILE INFORMATION** tab it shows some details of the userid that you provides. Details are profile picture, Name,Age,location,No of questions and answer you provides. Actually as this add ons does do any auth so it fetch the details of the profile using (except achievements and inbox) the userid you provided. So make sure to provide your id. if you will provide any others id then it will show the information of the owner of that id(no purpose for any one). if you will accidently type a wrong id and you want to change it then you have to clear the browser cookies. So Make sure to give your ID.
 
-In the **BADGES & REPUTATION** it shows the badges count and as well as the reputation of the user. it also fetch from the user id.
+In the **BADGES & REPUTATION** it shows the badges count and as well as the reputation of the user. it also fetches the user id.
 
 In the **INBOX** and **Achievements** tabs they show your achievements and the inbox contetnt. https://stackoverflow.com/topbar/achievements and https://stackoverflow.com/topbar/inbox provide the achievements and the inbox of the user of the browser. so to fetch the data. The user needs to login to the stackoverflow using the firefox as these data will fetch from the tabs.
 
